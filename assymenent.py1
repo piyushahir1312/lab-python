@@ -1,0 +1,55 @@
+print("Welcome to Python Programming!") 
+print("Rajesh Kumar")
+print("\tFlat No. 101, Sunshine Apartments")
+print("\tMG Road, Sector 15")
+print("\tRajkot")
+print("\tPincode: 360004")
+print("\tIndia")
+a = 150
+b = 120.50
+
+print("Addition =", a + b)
+print("Subtraction =", a - b)
+print("Multiplication =", a * b)
+print("Division =", aradius = float(input("Enter radius: "))
+
+area = 3.14 * radius * radius
+circumference = 2 * 3.14 * radius
+
+print("Area of Circle =", area)
+print("Circumference of Circle =", circumference) / b)
+P = float(input("Enter Principal: "))
+R = float(input("Enter Rate of Interest: "))
+T = float(input("Enter Time (years): "))
+
+SI = (P * R * T) / 100
+
+print("Simple Interest =", SI)
+length = float(input("Enter length: "))
+width = float(input("Enter width: "))
+
+perimeter = 2 * (length + width)
+
+print("Perimeter of Rectangle =", perimeter)
+length = float(input("Enter length: "))
+width = float(input("Enter width: "))
+
+area = length * width
+perimeter = 2 * (length + width)
+
+print("Area of Rectangle =", area)
+print("Perimeter of Rectangle =", perimeter)
+a = float(input("Enter side a: "))
+b = float(input("Enter side b: "))
+c = float(input("Enter side c: "))
+
+perimeter = a + b + c
+
+print("Perimeter of Triangle =", perimeter)
+side = float(input("Enter side: "))
+
+area = side * side
+perimeter = 4 * side
+
+print("Area of Square =", area)
+print("Perimeter of Square =", perimeter)
